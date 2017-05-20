@@ -3,8 +3,8 @@
         <Name>qemu</Name>
         <Homepage>http://wiki.qemu.org/Main_Page</Homepage>
         <Packager>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@skynet.be</Email>
+            <Name>Kyle Dayton</Name>
+            <Email>kyle@grol.ly</Email>
         </Packager>
         <License>GPL-2.0</License>
         <PartOf>virt</PartOf>
@@ -49,11 +49,11 @@ server and embedded PowerPC, and S390 guests.
     </Package>
     <History>
         <Update release="20">
-            <Date>2017-04-29</Date>
+            <Date>2017-05-20</Date>
             <Version>2.9.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@skynet.be</Email>
+            <Name>Kyle Dayton</Name>
+            <Email>kyle@grol.ly</Email>
         </Update>
     </History>
 </PISI>

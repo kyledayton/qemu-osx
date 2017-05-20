@@ -43,6 +43,7 @@ builddeps  :
     - libjpeg-turbo-devel
     - lzo-devel
 setup      : |
+    %apply_patches
     ./configure --prefix=/usr \
                 --libdir=%libdir% \
                 --sysconfdir=/etc \
